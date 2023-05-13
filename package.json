@@ -1,5 +1,5 @@
 {
-  "name": "helper",
+  "name": "helpiest-of-helpers",
   "version": "1.0.0",
   "description": "A collection of random helpers for the sole purpose of practicing NPM package creation and management",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "@sandbox/npm-sandbox-helper"
+    "url": "https://github.com/Theqwertypusher/npm-helper"
   },
   "keywords": [
     "javascript"
