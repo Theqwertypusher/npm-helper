@@ -1,6 +1,6 @@
 {
   "name": "helpiest-of-helpers",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "A collection of random helpers for the sole purpose of practicing NPM package creation and management",
   "main": "index.js",
   "scripts": {
